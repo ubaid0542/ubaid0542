@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # 💫 About Me:
-i am a web developer and i amd currently learning<br>
+Hey, I am a web developer and i amd currently learning<br>
 
 
 ## 🌐 Socials:
