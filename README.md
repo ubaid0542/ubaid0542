@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid0542&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid0542" /> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about **MEARN stacks**
 
 - 📫 How to reach me **mu0430218@gmail.com**
 
