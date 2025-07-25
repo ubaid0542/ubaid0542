@@ -1,6 +1,6 @@
 <img align="center" src="https://miro.medium.com/v2/resize:fit:720/format:webp/1*aniyNTcHORbvDiLGUzJSsQ.gif">
 <h1 align="center">Hi 👋, I'm Md. Ubaid</h1>
-<h3 align="center">Hi!, I am passionate to Web Develope, focused on building clean, responsive, and user-friendly websites. Currently learning MERN Stack and exploring real-world project. I enjoy problem-solving , learning new tech, and contributing to the dev community.</h3>
+<h3 align="center">Hi!, I am passionate to Web Developer, focused on building clean, responsive, and user-friendly websites. Currently learning MERN Stack and exploring real-world project. I enjoy problem-solving , learning new tech, and contributing to the dev community.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ubaid0542&label=Profile%20views&color=0e75b6&style=flat" alt="ubaid0542" /> </p>
