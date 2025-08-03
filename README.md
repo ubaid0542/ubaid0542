@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **React**
 
-- 💬 Ask me about **MEARN stacks**
+- 💬 Ask me about **MERN stacks**
 
 - 📫 How to reach me **mu0430218@gmail.com**
 
